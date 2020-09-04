@@ -1,0 +1,29 @@
+/*---HEADER---*/
+.header {
+    display: flex;
+    width: 100%;
+}
+.header-left {
+    display: flex;
+}
+.header-center {
+    display: flex;
+    align-items: center;
+}
+.header-right {
+    display: flex;
+}
+
+/*----Banner---*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* --- imagen----*/
+
+#image-caption {
+    width: 250px;
+    height: 350px;
+    
+    align-items: center ;
+}
